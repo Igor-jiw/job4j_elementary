@@ -4,6 +4,7 @@ public class TestGit {
     @SuppressWarnings("checkstyle:WhitespaceAround")
     public static void main(String[] args) {
         int word = 2;
-        System.out.println(word);
+        int war = 4;
+        System.out.println(word + war);
     }
 }
